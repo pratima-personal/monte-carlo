@@ -1,1 +1,1 @@
-Git repository containing c++ code for performing Markov Chain Monte Carlo simulations. Used for research purposes to investigate a interactions in a coarse-grained description of ligand molecules on nanoparticle surfaces.
+Git repository containing c++ code for performing Markov Chain Monte Carlo simulations. Used for research purposes to investigate interactions in a coarse-grained description of ligand molecules on nanoparticle surfaces.
